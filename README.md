@@ -8,4 +8,4 @@ O trabalho final foi feito com tudo que foi pedido:
 
 - Criar uma classe controller para tarefa com os seguintes métodos: addTarefa, editarTarefa, getTarefa, excluirTarefa, atualizarTabela e getListaDeTarefas.
 
-- Porém a interface em si não foi feita usando jframes isso foi devido a utilização de IA no trabalho, ao tentar pedir auxilio para o chatgpt em relação a erros no código, a IA não conseguia auxiliar nos erros devido ao netbeans ter uma interface que voce constroi no programa em si, essa foi a parte que não consegui desenvolver conforme foi feito porém o resto que foi pedido está feito.
+Porém a interface em si não foi feita usando jframes isso foi devido a utilização de IA no trabalho, ao tentar pedir auxilio para o chatgpt em relação a erros que eu estava ocorrendo no desenvolvimento da interface via ja jframes, a IA não conseguia auxiliar nos erros devido ao netbeans ter uma interface que voce constroi no programa em si, essa foi a parte que não consegui desenvolver conforme foi solicitado, porém o resto que foi pedido está feito.
