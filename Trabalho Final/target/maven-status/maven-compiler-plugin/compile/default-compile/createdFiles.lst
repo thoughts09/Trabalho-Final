@@ -1,0 +1,11 @@
+view\LoginView.class
+controller\TarefaController.class
+view\PrincipalView.class
+controller\UsuarioController.class
+util\PlaceholderUtil$1.class
+view\CadastroUsuarioView.class
+view\LoginView$1.class
+app\Main.class
+model\Usuario.class
+util\PlaceholderUtil.class
+model\Tarefa.class
